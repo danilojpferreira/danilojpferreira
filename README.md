@@ -1,5 +1,6 @@
 ## Olá 🇵🇹, Hola 🇪🇸 & Hi 🇬🇧!
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@danilojpferreira&layout=compact)](https://github.com/danilojpferreira)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilojpferreira&layout=compact) !-->
 
 _Languages_
