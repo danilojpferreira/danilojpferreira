@@ -1,8 +1,5 @@
 ## Olá 🇵🇹, Hola 🇪🇸 & Hi 🇬🇧!
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@danilojpferreira&layout=compact)](https://github.com/danilojpferreira)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilojpferreira&layout=compact) !-->
-
 _Languages_
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,17 +50,8 @@ _Cloud computing / DevOps_
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-<!--
-**danilojpferreira/danilojpferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Code stats for all users in 2022 - WakaTime](https://github.com/danilojpferreira/danilojpferreira/assets/43321038/ff460d80-68b2-4b33-b4bc-b22e6d145182)
+<!-- https://wakatime.com/a-look-back-at-2022 !-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@danilojpferreira&layout=compact)](https://github.com/danilojpferreira)
