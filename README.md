@@ -49,9 +49,7 @@ _Cloud computing / DevOps_
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-
-
-![Code stats for all users in 2022 - WakaTime](https://github.com/danilojpferreira/danilojpferreira/assets/43321038/ff460d80-68b2-4b33-b4bc-b22e6d145182)
-<!-- https://wakatime.com/a-look-back-at-2022 !-->
+![code-status](https://github.com/danilojpferreira/danilojpferreira/assets/43321038/71fb0a37-657b-499e-a250-d14b538b49ba)
+<!-- https://wakatime.com/a-look-back-at-2023 !-->
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@danilojpferreira&layout=compact)](https://github.com/danilojpferreira)
