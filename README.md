@@ -62,6 +62,6 @@ _Repository management_
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=for-the-badge)
 
-[![code-status]([https://github.com/danilojpferreira/danilojpferreira/assets/43321038/71fb0a37-657b-499e-a250-d14b538b49ba](https://github.com/user-attachments/assets/647785ee-771d-476c-a57b-a1e018434b6f))](https://wakatime.com/a-look-back-at-2024/c3513896-0cb5-40d3-afbc-8a383b65b000/vjzqdpzsnn)
+[![code-status](https://github.com/user-attachments/assets/647785ee-771d-476c-a57b-a1e018434b6f)](https://wakatime.com/a-look-back-at-2024/c3513896-0cb5-40d3-afbc-8a383b65b000/vjzqdpzsnn)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@danilojpferreira&layout=compact)](https://github.com/danilojpferreira)
